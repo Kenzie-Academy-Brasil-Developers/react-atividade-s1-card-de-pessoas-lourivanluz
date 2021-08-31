@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.App p {
+  margin: 0;
+}
+
+.App-header {
+  padding: 15px;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  color: white;
+  justify-content: center;
+}
